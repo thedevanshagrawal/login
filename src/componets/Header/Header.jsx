@@ -17,6 +17,9 @@ function Header() {
            <li>
                <a href="/Login">Login</a>
             </li>
+           <li>
+               <a href="/Registration">Registration</a>
+            </li>
           {/*
             <li>
               <a href="/SchoolList">School List</a>
